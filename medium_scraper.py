@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 #page = result.content
 #soup = BeautifulSoup(page)
 
-soup = BeautifulSoup(open("/Users/dphamnyghonca/Downloads/medium.html"))
+soup = BeautifulSoup(open("july.html"))
 
 
 # get links
