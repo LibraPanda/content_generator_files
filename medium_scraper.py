@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 #page = result.content
 #soup = BeautifulSoup(page)
 
-soup = BeautifulSoup(open("july.html"))
+soup = BeautifulSoup(open("september.html"))
 
 
 # get links
